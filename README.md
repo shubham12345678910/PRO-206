@@ -1,2 +1,1 @@
-# C206-reference-code
-reference code for C206
+# PRO-206
